@@ -1,7 +1,7 @@
 # 💫About Me :
-dancers I’m looking to collaborate on different project.
-speech_balloon Ask me about how we can collaborate.
-mailbox How to reach me: +250783544364 .
+-I’m looking to collaborate on different project.
+-Ask me about how we can collaborate.
+-How to reach me: +250783544364 .
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IYADUKUNZE Emile) 
@@ -13,10 +13,10 @@ mailbox How to reach me: +250783544364 .
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emilenfc&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilenfc&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
+### Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
