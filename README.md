@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://emilenfc.github.io/](https://emilenfc.github.io/)
 
-- 💬 Ask me about **anything you want**
+- 💬 Ask me about **iyaemile4@gmail.com**
 
 - 📫 How to reach me **+250783544364**
 
