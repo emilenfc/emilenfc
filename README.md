@@ -24,8 +24,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilenfc&show_icons=true&locale=en&layout=compact" alt="emilenfc" /></p>
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=emilenfc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=emilenfc&icon=0&color=0)](https://visitcount.itsvg.in)
