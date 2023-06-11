@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/emileiyadukunze" target="blank"><img src="https://img.shields.io/twitter/follow/emileiyadukunze?logo=twitter&style=for-the-badge" alt="emileiyadukunze" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://emilenfc.github.io/](https://emilenfc.github.io/)
+- 👨‍💻 All of my projects and experiences are available at [https://emilenfc.github.io/](https://emilenfc.github.io/)
 
 - 💬 Ask me about **iyaemile4@gmail.com**
 
 - 📫 How to reach me **+250783544364**
 
-- 📄 Know about my experiences [https://emilenfc.github.io/](https://emilenfc.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
